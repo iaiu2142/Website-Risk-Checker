@@ -1,6 +1,8 @@
 # AI Website Risk Checker (Chrome Extension)
 
 This project implements a lightweight hybrid website risk detection system.
+________________________________________________________________________________
+<img width="383" height="311" alt="image" src="https://github.com/user-attachments/assets/cb02a6db-a586-4990-9afd-56c5d7bc9774" />
 
 Features:
 - Content-based malicious keyword detection
