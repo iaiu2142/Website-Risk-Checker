@@ -1,7 +1,7 @@
 # AI Website Risk Checker (Extension)
 
 ### This project implements a lightweight hybrid website risk detection system. 
-The system performs real-time webpage analysis using heuristic security signals and malicious intent indicators. It evaluates website content, infrastructure characteristics, and suspicious scripting patterns to estimate a risk score.
+### The system performs real-time webpage analysis using heuristic security signals and malicious intent indicators. It evaluates website content, infrastructure characteristics, and suspicious scripting patterns to estimate a risk score.
 ---
 <img width="391" height="318" alt="image" src="https://github.com/user-attachments/assets/63dbc43c-6546-462d-a283-a53c0e7e1746" />
 <img width="326" height="286" alt="image" src="https://github.com/user-attachments/assets/d0bb7f6b-388f-49fa-9314-c9147f82311a" />
