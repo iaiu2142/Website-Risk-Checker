@@ -1,4 +1,4 @@
-# AI Website Risk Checker (Chrome Extension)
+# AI Website Risk Checker (Extension)
 
 This project implements a lightweight hybrid website risk detection system.
 ________________________________________________________________________________
