@@ -3,8 +3,7 @@
 This project implements a lightweight hybrid website risk detection system.
 ________________________________________________________________________________
 <img width="391" height="318" alt="image" src="https://github.com/user-attachments/assets/63dbc43c-6546-462d-a283-a53c0e7e1746" />
-________________________________________________________________________________
-<img width="485" height="324" alt="image" src="https://github.com/user-attachments/assets/f90a999c-9bd2-49f2-aabe-c5c9eb5b7b3a" />
+<img width="426" height="323" alt="image" src="https://github.com/user-attachments/assets/40b05cf7-4135-4681-b6e0-3611114fd1a8" />
 
 
 
