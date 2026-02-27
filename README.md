@@ -2,7 +2,12 @@
 
 This project implements a lightweight hybrid website risk detection system.
 ________________________________________________________________________________
-<img width="383" height="311" alt="image" src="https://github.com/user-attachments/assets/cb02a6db-a586-4990-9afd-56c5d7bc9774" />
+<img width="485" height="324" alt="image" src="https://github.com/user-attachments/assets/f90a999c-9bd2-49f2-aabe-c5c9eb5b7b3a" />
+________________________________________________________________________________
+<img width="391" height="318" alt="image" src="https://github.com/user-attachments/assets/63dbc43c-6546-462d-a283-a53c0e7e1746" />
+________________________________________________________________________________
+
+
 
 Features:
 - Content-based malicious keyword detection
