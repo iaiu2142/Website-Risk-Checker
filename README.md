@@ -5,7 +5,7 @@
 ### This project implements a lightweight hybrid website risk detection system. 
 ### The system performs real-time webpage analysis using heuristic security signals and malicious intent indicators. It evaluates website content, infrastructure characteristics, and suspicious scripting patterns to estimate a risk score.
 ---
-<img width="260" height="300" alt="image" src="https://github.com/user-attachments/assets/63dbc43c-6546-462d-a283-a53c0e7e1746" />
+<img width="265" height="300" alt="image" src="https://github.com/user-attachments/assets/63dbc43c-6546-462d-a283-a53c0e7e1746" />
 <img width="265" height="300" alt="image" src="https://github.com/user-attachments/assets/d0bb7f6b-388f-49fa-9314-c9147f82311a" />
 <img width="265" height="300" alt="image" src="https://github.com/user-attachments/assets/6e1fc01c-4704-47e0-8803-a2f33b71e329" />
 
